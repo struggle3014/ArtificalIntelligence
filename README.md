@@ -24,5 +24,15 @@
 
 <div align="center"><font size="2"><a href="./docs/MindMapping/机器学习.xmind">机器学习</a></font></div>
 
+## 2 实战篇
+
+| 用户画像                                |
+| --------------------------------------- |
+| [用户画像](./docs/用户画像/用户画像.md) |
+
+![用户画像](https://gitee.com/struggle3014/picBed/raw/master/用户画像.png)
+
+<div align="center"><font size="2"><a href="./docs/MindMapping/用户画像.xmind">用户画像</a></font></div>
+
 # 总结
 
